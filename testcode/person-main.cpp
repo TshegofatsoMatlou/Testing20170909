@@ -8,7 +8,6 @@ using std::make_unique;
 using std::shared_ptr;
 using std::make_shared;
 
-
 #include <string>
 #include <iostream>
 using std::string;
